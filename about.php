@@ -8,7 +8,6 @@
 <div class="about-wrapper">
 	<div><h1>Who is the<br />Arctic Mirage ?</h1></div>
 		<div>
-			<h3>THIS BLURB NEEDS REWORDING</h3>
 			<p>We are passionate about design.</p>
 
 <p>All sorts of design.</p>
