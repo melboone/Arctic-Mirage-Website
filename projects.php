@@ -335,6 +335,26 @@
           <img style="float:left;" src="projects/thumbs/the-laburnum.jpg">
           </span>
 </a>
+<a style="position: absolute; left: 0px; top: 0px; transform: translate3d(666px, 0px, 0px);" class="projectItem element all graphic  isotope-item" href="projects/the-huntingdale/">
+          <table class="overlay">
+          <tbody><tr>
+            <td valign="middle">The Huntingdale</td>
+          </tr>
+          </tbody></table>
+          <span class="details">
+          <img style="float:left;" src="projects/thumbs/the-huntingdale.jpg">
+          </span>
+</a>
+<a style="position: absolute; left: 0px; top: 0px; transform: translate3d(666px, 0px, 0px);" class="projectItem element all graphic  isotope-item" href="projects/the-gilbert/">
+          <table class="overlay">
+          <tbody><tr>
+            <td valign="middle">The Gilbert</td>
+          </tr>
+          </tbody></table>
+          <span class="details">
+          <img style="float:left;" src="projects/thumbs/TAM_WebFolio.jpg">
+          </span>
+</a>
 </div>
 </div>
 <?php include("includes/footer.php"); ?>

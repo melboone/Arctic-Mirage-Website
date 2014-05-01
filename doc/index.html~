@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Documentation for Arctic Mirage Website</title>
+<style>
+body {
+    background-color:lightgrey;
+    font-family:sans-serif;
+}
+h2 {
+    color: navy;
+    padding: 0;
+    
+}
+</style>
+</head>
+<body>
+<h2>ArcticMirage has following structure:</h2>
+<ul>
+    <li>Includes
+    <ul>
+	<li>header.php
+	    <ul>
+		<li>this is included in all files</li>
+		<li>contains:
+		    <ul>
+			<li>keywords</li>
+			<li>description</li>
+			<li>stylesheet info</li>
+			<li>javascript reference</li>
+			<li>Web Page Author</li>
+			<li>Top Menu</li>
+		    </ul>
+		</li>
+		<li>opens the tag &lt;body&gt; and &lt;html&gt;</li>
+	    </ul>
+	</li>
+	<li>footer.php
+	    <ul>
+		<li>closes the tag &lt;/body&gt; and &lt;/html&gt;</li>
+	    </ul>
+	</li>
+	<li>utils.js</li>
+	<li>highlight.js</li>
+	<li>jquerry....js</li>
+    </ul>
+</li>
+    <li>images
+	<ul>
+	    <li>logo</li>
+	    <li>arrows</li>
+	    <li>other general images</li>
+	</ul>
+    </li>
+    <li>css
+	<ul>
+	    <li>All the fonts</li>
+	    <li>style.css</li>
+	    <li>project-page.css</li>
+	    <li>jquery.mCustomScrollbar.css</li>
+	</ul>
+    </li>
+    <li>projects
+	<ul>
+	    <li>folders with every project
+		<ul>
+		    <li>
+			index.php
+		    </li>
+		    <li>
+			images
+			<ul>
+			    <li>
+				700x525px
+			    </li>
+			</ul>
+		    </li>
+		</ul>
+	    </li>
+	<li>thumb folder
+	    <ul>Add 222x222 px project image here</ul>
+	</li>
+	<li>index.php
+	    <ul>
+		<li>404 file</li>
+	    </ul>
+	</li>
+	<li>template.php
+	    <ul>
+		<li>serves as the template for every new project&nbsp;</li>
+		<li><strong>This file is to be included into every new projects folder created</strong></li>
+		<li><span style="color:red">Add/Replace</span>:
+		    <ul>
+			<li>Description</li>
+			<li>keywords</li>
+			<li>title</li>
+			<li>&lt;h1&gt; Title</li>
+			<li>replace and add&nbsp;&lt;img src="" alt=""&gt;</li>
+		    </ul>
+		</li>
+	    </ul>
+	</li>
+    </ul>
+    </li>
+    <li>index.php</li>
+    <li>about.php</li>
+    <li>projects.php</li>
+    <li>services.php</li>
+    <li>contact.php</li>
+    <li>error.php</li>
+    <li>404.php</li>
+    <li>htaccess</li>
+    <li>robots.txt</li>
+</ul>
+<p>&nbsp;</p>
+</body>
+</html>
