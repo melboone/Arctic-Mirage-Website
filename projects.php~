@@ -362,7 +362,27 @@
           </tr>
           </tbody></table>
           <span class="details">
-          <img style="float:left;" src="projects/thumbs/syp-epo.jpg">
+          <img style="float:left;" src="projects/thumbs/syp-expo.jpg">
+          </span>
+</a>
+<a style="position: absolute; left: 0px; top: 0px; transform: translate3d(666px, 0px, 0px);" class="projectItem element all graphic  isotope-item" href="projects/oaklands-on-highett/">
+          <table class="overlay">
+          <tbody><tr>
+            <td valign="middle">Oaklands on Highett</td>
+          </tr>
+          </tbody></table>
+          <span class="details">
+          <img style="float:left;" src="projects/thumbs/oaklands-on-highett.jpg">
+          </span>
+</a>
+<a style="position: absolute; left: 0px; top: 0px; transform: translate3d(666px, 0px, 0px);" class="projectItem element all graphic  isotope-item" href="projects/kooyong-terrace/">
+          <table class="overlay">
+          <tbody><tr>
+            <td valign="middle">Kooyong Terraces</td>
+          </tr>
+          </tbody></table>
+          <span class="details">
+          <img style="float:left;" src="projects/thumbs/kooyong-terraces.jpg">
           </span>
 </a>
 </div>
