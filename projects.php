@@ -385,6 +385,16 @@
           <img style="float:left;" src="projects/thumbs/kooyong-terraces.jpg">
           </span>
 </a>
+<a style="position: absolute; left: 0px; top: 0px; transform: translate3d(666px, 0px, 0px);" class="projectItem element all graphic  isotope-item" href="projects/carawatha-rise/">
+          <table class="overlay">
+          <tbody><tr>
+            <td valign="middle">Carawatha Rise</td>
+          </tr>
+          </tbody></table>
+          <span class="details">
+          <img style="float:left;" src="projects/thumbs/carawatha-rise.jpg">
+          </span>
+</a>
 </div>
 </div>
 <?php include("includes/footer.php"); ?>

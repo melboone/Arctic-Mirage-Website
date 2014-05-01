@@ -375,7 +375,7 @@
           <img style="float:left;" src="projects/thumbs/oaklands-on-highett.jpg">
           </span>
 </a>
-<a style="position: absolute; left: 0px; top: 0px; transform: translate3d(666px, 0px, 0px);" class="projectItem element all graphic  isotope-item" href="projects/kooyong-terrace/">
+<a style="position: absolute; left: 0px; top: 0px; transform: translate3d(666px, 0px, 0px);" class="projectItem element all graphic  isotope-item" href="projects/kooyong-terraces/">
           <table class="overlay">
           <tbody><tr>
             <td valign="middle">Kooyong Terraces</td>
@@ -383,6 +383,16 @@
           </tbody></table>
           <span class="details">
           <img style="float:left;" src="projects/thumbs/kooyong-terraces.jpg">
+          </span>
+</a>
+<a style="position: absolute; left: 0px; top: 0px; transform: translate3d(666px, 0px, 0px);" class="projectItem element all graphic  isotope-item" href="projects/caarawatha-rise/">
+          <table class="overlay">
+          <tbody><tr>
+            <td valign="middle">Carawatha Rise</td>
+          </tr>
+          </tbody></table>
+          <span class="details">
+          <img style="float:left;" src="projects/thumbs/carawatha-rise.jpg">
           </span>
 </a>
 </div>
