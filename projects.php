@@ -352,7 +352,7 @@
           </tr>
           </tbody></table>
           <span class="details">
-          <img style="float:left;" src="projects/thumbs/TAM_WebFolio.jpg">
+          <img style="float:left;" src="projects/thumbs/the-gilbert.jpg">
           </span>
 </a>
 <a style="position: absolute; left: 0px; top: 0px; transform: translate3d(666px, 0px, 0px);" class="projectItem element all graphic  isotope-item" href="projects/syp-expo/">
