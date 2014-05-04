@@ -3,7 +3,7 @@
 <?php $title = 'SYP Expo| Arctic Mirage'; include("../../includes/header.php"); ?>
     <div class="pr-desc">
     <h1>SYP Expo</h1>
-<p></p>
+<p>Billboard Design</p>
 </div>
     <div id="content_1" class="content">
         <div class="images_container">

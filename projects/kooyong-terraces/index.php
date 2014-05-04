@@ -3,7 +3,15 @@
 <?php $title = 'Kooyong Terraces | Arctic Mirage'; include("../../includes/header.php"); ?>
     <div class="pr-desc">
     <h1>Kooyong Terraces</h1>
-<p></p>
+<p>3D Artist Impressions<br />
+Marketing Floor Plans<br />
+Logo Design<br />
+Brochure<br />
+Copywriting<br />
+Location Map Illustration<br />
+Lifestyle Photography<br />
+Sales Manual<br />
+Hoarding Banner</p>
 </div>
     <div id="content_1" class="content">
         <div class="images_container">

@@ -3,7 +3,22 @@
 <?php $title = 'The Huntingdale | Arctic Mirage'; include("../../includes/header.php"); ?>
     <div class="pr-desc">
     <h1>The Huntingdale</h1>
-<p></p>
+<p>3D Artist Impressions<br />
+Marketing Floor Plans<br />
+Logo Design<br />
+Brochure<br />
+Copywriting<br />
+Location Map Illustration<br />
+Lifestyle Photography<br />
+Sales Manual<br />
+Leaflet Design<br />
+Press Ad<br />
+Electronic Direct Mail<br />
+Web Banner Ad<br />
+Display Suite Graphics<br />
+Hoarding Banner<br />
+Website Design<br />
+Material Board</p>
 </div>
     <div id="content_1" class="content">
         <div class="images_container">

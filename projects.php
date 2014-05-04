@@ -325,7 +325,7 @@
           <img style="float:left;" src="projects/thumbs/virage-mosman.jpg">
           </span>
 </a>
-<a style="position: absolute; left: 0px; top: 0px; transform: translate3d(666px, 0px, 0px);" class="projectItem element all graphic  isotope-item" href="projects/the-laburnum/">
+<a style="position: absolute; left: 0px; top: 0px; transform: translate3d(666px, 0px, 0px);" class="projectItem element all campaign  isotope-item" href="projects/the-laburnum/">
           <table class="overlay">
           <tbody><tr>
             <td valign="middle">The Laburnum</td>
@@ -335,7 +335,7 @@
           <img style="float:left;" src="projects/thumbs/the-laburnum.jpg">
           </span>
 </a>
-<a style="position: absolute; left: 0px; top: 0px; transform: translate3d(666px, 0px, 0px);" class="projectItem element all graphic  isotope-item" href="projects/the-huntingdale/">
+<a style="position: absolute; left: 0px; top: 0px; transform: translate3d(666px, 0px, 0px);" class="projectItem element all campaign  isotope-item" href="projects/the-huntingdale/">
           <table class="overlay">
           <tbody><tr>
             <td valign="middle">The Huntingdale</td>
@@ -345,7 +345,7 @@
           <img style="float:left;" src="projects/thumbs/the-huntingdale.jpg">
           </span>
 </a>
-<a style="position: absolute; left: 0px; top: 0px; transform: translate3d(666px, 0px, 0px);" class="projectItem element all graphic  isotope-item" href="projects/the-gilbert/">
+<a style="position: absolute; left: 0px; top: 0px; transform: translate3d(666px, 0px, 0px);" class="projectItem element all campaign  isotope-item" href="projects/the-gilbert/">
           <table class="overlay">
           <tbody><tr>
             <td valign="middle">The Gilbert</td>
@@ -365,7 +365,7 @@
           <img style="float:left;" src="projects/thumbs/syp-expo.jpg">
           </span>
 </a>
-<a style="position: absolute; left: 0px; top: 0px; transform: translate3d(666px, 0px, 0px);" class="projectItem element all graphic  isotope-item" href="projects/oaklands-on-highett/">
+<a style="position: absolute; left: 0px; top: 0px; transform: translate3d(666px, 0px, 0px);" class="projectItem element all campaign  isotope-item" href="projects/oaklands-on-highett/">
           <table class="overlay">
           <tbody><tr>
             <td valign="middle">Oaklands on Highett</td>
@@ -375,7 +375,7 @@
           <img style="float:left;" src="projects/thumbs/oaklands-on-highett.jpg">
           </span>
 </a>
-<a style="position: absolute; left: 0px; top: 0px; transform: translate3d(666px, 0px, 0px);" class="projectItem element all graphic  isotope-item" href="projects/kooyong-terraces/">
+<a style="position: absolute; left: 0px; top: 0px; transform: translate3d(666px, 0px, 0px);" class="projectItem element all campaign  isotope-item" href="projects/kooyong-terraces/">
           <table class="overlay">
           <tbody><tr>
             <td valign="middle">Kooyong Terraces</td>
@@ -385,7 +385,7 @@
           <img style="float:left;" src="projects/thumbs/kooyong-terraces.jpg">
           </span>
 </a>
-<a style="position: absolute; left: 0px; top: 0px; transform: translate3d(666px, 0px, 0px);" class="projectItem element all graphic  isotope-item" href="projects/carawatha-rise/">
+<a style="position: absolute; left: 0px; top: 0px; transform: translate3d(666px, 0px, 0px);" class="projectItem element all campaign  isotope-item" href="projects/carawatha-rise/">
           <table class="overlay">
           <tbody><tr>
             <td valign="middle">Carawatha Rise</td>

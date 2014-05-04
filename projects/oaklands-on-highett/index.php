@@ -3,7 +3,15 @@
 <?php $title = 'Page_Title | Arctic Mirage'; include("../../includes/header.php"); ?>
     <div class="pr-desc">
     <h1>Oaklands on Highett</h1>
-<p></p>
+<p>3D Artist Impressions<br />
+Marketing Floor Plans<br />
+Logo Design<br />
+Brochure<br />
+Copywriting<br />
+Location Map Illustration<br />
+Lifestyle Photography<br />
+Sales Manual<br />
+Material Board</p>
 </div>
     <div id="content_1" class="content">
         <div class="images_container">

@@ -3,7 +3,23 @@
 <?php $title = 'The Gilbert | Arctic Mirage'; include("../../includes/header.php"); ?>
     <div class="pr-desc">
     <h1>The Gilbert</h1>
-<p></p>
+<p>3D Artist Impressions<br />
+Marketing Floor Plans<br />
+Logo Design<br />
+Brochure<br />
+Copywriting<br />
+Location Map Illustration<br />
+Lifestyle Photography<br />
+Sales Manual<br />
+Leaflet Design<br />
+Press Ad<br />
+Stationary Design<br />
+Web Banner Ad<br />
+Display Suite Graphics<br />
+Hoarding Banner<br />
+Website Design<br />
+Videography<br />
+Material Board</p>
 </div>
     <div id="content_1" class="content">
         <div class="images_container">
