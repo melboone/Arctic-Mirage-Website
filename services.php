@@ -37,11 +37,13 @@
 			<div>
 				<p>Physical Sample Board</p>
 				<p>Digital Town Planning Permit</p>
-                <p>3D Movie Animation</p>
 			</div>
 		</div>
-				<div>
+				<div class="sp">
 			<div>3D Walkthrough</div>
+			<div>
+                <p>3D Movie Animation</p>
+			</div>
 		</div>
 				<div>
 			<div>Interior Styling</div>
@@ -101,7 +103,9 @@
             </div>
             <div class="sp">
                 <div>Location Map Illustration</div>
-                <div></div>
+                <div>
+                	<p>Location & amenity research</p>
+                </div>
             </div>
             <div class="sp">
                 <div>Website</div>
@@ -109,7 +113,7 @@
                         <p>Single ROI Page</p>
                         <p>Full Website Design & Coding</p>
                         <p>Web Strip/Banner Ad</p>
-                        <p>eNewsletter / EDM (Electrnic Direct Marketing)</p>
+                        <p>eNewsletter / EDM (Electronic Direct Marketing)</p>
                     </div>
             </div>
                 <div class="sp">
