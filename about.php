@@ -5,8 +5,8 @@
     <img src="includes/images/about-arctic-mirage.jpg">
 </div>
 <div class="about-wrapper">
-	<div><h1>WE ARE THE ARCTIC MIRAGE</h1></div>
-		<div>
+	<div><h1>WE ARE THE ARCTIC MIRAGE .</h1></div>
+		<!--<div>-->
 			<p>We are passionate about design.</p>
 			<p>All sorts of design.</p>
 			<p>Our boutique studio buzzes with positive energy and thrives on our knack<br>
@@ -21,6 +21,6 @@
 			specifications, material boards and marketing colour floorplans.</p>
 			<p>We love what we do.</p>
 			<p>And it shows.</p>
-		</div>
+		<!--</div>-->
 </div>
 <?php include("includes/footer.php"); ?>
