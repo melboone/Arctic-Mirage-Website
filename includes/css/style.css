@@ -27,9 +27,7 @@ body {
     border: 20px solid #fff;
     min-width: 960px;
 }
-h1,
-h2,
-h3 {
+h1, h2, h3 {
     color: #f58020;
     font-size: 16px;
     text-transform: uppercase;
@@ -83,8 +81,11 @@ body > div.about-wrapper > div:nth-child(2) {
     padding-bottom: 20px;
     font-size: 1em
 }
+body > div.about-wrapper > div:nth-child(2) > p {
+    padding-bottom: 20px;
+}
 body > div.about-wrapper > div:nth-child(1) > h1 {
-    font-size: 24px;
+    font-size: 28px;
     font-weight: 100;
 }
 body > div:nth-child(2) > img {
@@ -97,8 +98,7 @@ body > div:nth-child(2) > img {
     display: table;
     margin-top: 80px
 }
-body > div.contact-wrapper > div:nth-child(1),
-body > div.contact-wrapper > div:nth-child(2) {
+body > div.contact-wrapper > div:nth-child(1), body > div.contact-wrapper > div:nth-child(2) {
     display: table-cell;
     width: 50%
 }
@@ -106,8 +106,7 @@ body > div.contact-wrapper > div:nth-child(2) {
     display: table-cell;
     width: 50%
 }
-.contact-wrapper h1,
-h2 {
+.contact-wrapper h1, h2 {
     font-size: 16px;
     text-transform: uppercase;
     margin-top: 30px;
@@ -153,14 +152,11 @@ body > div.services-wrapper > div:nth-child(2) > div:nth-child(2) {
     display: table;
     width: 100%
 }
-body > div.services-wrapper > div:nth-child(2) > div >:first-child,
-body > div.services-wrapper > div:nth-child(3) > div >:first-child,
-body > div.services-wrapper > div:nth-child(4) > div >:first-child {
+body > div.services-wrapper > div:nth-child(2) > div >:first-child, body > div.services-wrapper > div:nth-child(3) > div >:first-child, body > div.services-wrapper > div:nth-child(4) > div >:first-child {
     display: table-cell;
     width: 180px
 }
-body > div.services-wrapper > div:nth-child(3),
-body > div.services-wrapper > div:nth-child(4) {
+body > div.services-wrapper > div:nth-child(3), body > div.services-wrapper > div:nth-child(4) {
     display: inline-block;
     width: 33%;
     min-width: 400px;
@@ -168,9 +164,7 @@ body > div.services-wrapper > div:nth-child(4) {
 body > div.services-wrapper > div:nth-child(2) > div:nth-child(5) > * {
     display: table-cell;
 }
-body > div.services-wrapper > div:nth-child(2) > div > *,
-body > div.services-wrapper > div:nth-child(3) > div > *,
-body > div.services-wrapper > div:nth-child(4) > div > *:last-child {
+body > div.services-wrapper > div:nth-child(2) > div > *, body > div.services-wrapper > div:nth-child(3) > div > *, body > div.services-wrapper > div:nth-child(4) > div > *:last-child {
     display: table-cell
 }
 
@@ -212,8 +206,7 @@ body > div.error-page h2 {
 #content_1 {
     width: 87%
 }
-.pr-desc,
-#content_1 {
+.pr-desc, #content_1 {
     display: inline-block;
     vertical-align: top;
     margin-top: 50px;
