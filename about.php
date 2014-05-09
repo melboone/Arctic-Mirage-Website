@@ -5,7 +5,7 @@
     <img src="includes/images/about-arctic-mirage.jpg">
 </div>
 <div class="about-wrapper">
-	<div><h1>WE ARE THE ARCTIC MIRAGE .</h1></div>
+	<div><h1>WE ARE THE ARCTIC MIRAGE</h1></div>
 		<!--<div>-->
 			<p>We are passionate about design.</p>
 			<p>All sorts of design.</p>
