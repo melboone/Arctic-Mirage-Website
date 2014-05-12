@@ -2,19 +2,19 @@
 <?php $keywords = 'hudson 88, hudson, hudson apartments'; ?>
 <?php $title = 'Hudson 88 Apartments | Arctic Mirage'; include("../../includes/header.php"); ?>
     <div class="pr-desc">
-    <h1>Oak Apartments</h1>
+    <h1>Hudsons 88</h1>
 <p>3D Artist Impressions<br>
+Interior Specifications<br>
 Marketing Floor Plans<br>
 Logo Design<br>
-Brochure <br>
+Brochure Design<br>
+Market Research<br>
 Location Map Illustration<br>
+Lifestyle Photography<br>
+Aerial Photography<br>
+EDM<br>
 Sales Manual<br>
-Leaflet Design<br>
-Business Card Design<br>
-Web Banner Ad<br>
-REA / Domain Profile Page<br>
-Hoarding Banner Design<br>
-Press Ad<br>
+Material Board<br>
 Website</p>
 </div>
     <div id="content_1" class="content">

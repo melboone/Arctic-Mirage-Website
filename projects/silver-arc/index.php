@@ -3,7 +3,11 @@
 <?php $title = 'The Silver Arc | Arctic Mirage'; include("../../includes/header.php"); ?>
     <div class="pr-desc">
     <h1>The Silver Arc</h1>
-<p></p>
+<p>Logo Design<br>
+Stationery Design<br>
+Website<br>
+Signage Design<br>
+</p>
 </div>
     <div id="content_1" class="content">
         <div class="images_container">

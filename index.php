@@ -118,7 +118,7 @@
 <a style="position: absolute; left: 0px; top: 0px; transform: translate3d(666px, 0px, 0px);" class="projectItem element all campaign isotope-item" href="projects/capital-hill/">
           <table class="overlay">
           <tbody><tr>
-            <td valign="middle">Captal Hill</td>
+            <td valign="middle">Capital Hill</td>
           </tr>
           </tbody></table>
           <span class="details">
@@ -208,7 +208,7 @@
 <a style="position: absolute; left: 0px; top: 0px; transform: translate3d(666px, 0px, 0px);" class="projectItem element all campaign isotope-item" href="projects/hudson-88/">
           <table class="overlay">
           <tbody><tr>
-            <td valign="middle">Hudson 88</td>
+            <td valign="middle">Hudsons 88</td>
           </tr>
           </tbody></table>
           <span class="details">
@@ -218,7 +218,7 @@
 <a style="position: absolute; left: 0px; top: 0px; transform: translate3d(666px, 0px, 0px);" class="projectItem element all graphic  isotope-item" href="projects/maccabi-ajax/">
           <table class="overlay">
           <tbody><tr>
-            <td valign="middle">Maccabi Ajax Cricket Clib</td>
+            <td valign="middle">Maccabi Ajax Cricket Club</td>
           </tr>
           </tbody></table>
           <span class="details">
@@ -358,7 +358,7 @@
 <a style="position: absolute; left: 0px; top: 0px; transform: translate3d(666px, 0px, 0px);" class="projectItem element all graphic  isotope-item" href="projects/syp-expo/">
           <table class="overlay">
           <tbody><tr>
-            <td valign="middle">SYP Expo</td>
+            <td valign="middle">Shangyi Property Expo</td>
           </tr>
           </tbody></table>
           <span class="details">

@@ -25,12 +25,7 @@
 		<p><span>T</span> +65 9487 2117</p><br />
 		<!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/slim-081711.css" rel="stylesheet" type="text/css">
-<style type="text/css">
-    #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif;  width:600px;}
-    /* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
-       We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
-</style>
-<div id="mc_embed_signup" style="padding:0;margin:0;>
+<div id="mc_embed_signup" style="padding:0;margin:0;">
 <form action="http://arcticmirage.us3.list-manage2.com/subscribe/post?u=f5ca51b0ffe33c67735f34302&amp;id=773604ab72" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <label style="font-weight:normal;font-family:neutra_textbook;font-size:18px;">Join our mailing list</label>
     <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>

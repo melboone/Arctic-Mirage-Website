@@ -9,8 +9,8 @@
     <div id="content_1" class="content">
         <div class="images_container">
             <img src="Boral1.jpg" alt="">
-            <img src="Boral1.jpg" alt="">
-            <img src="Boral1.jpg" alt="">
+            <img src="Boral2.jpg" alt="">
+            <img src="Boral3.jpg" alt="">
         </div>
     </div>
     <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>

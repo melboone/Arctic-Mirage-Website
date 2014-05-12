@@ -210,3 +210,11 @@ body > div.error-page h2 {
     vertical-align: top;
     margin-top: 50px;
 }
+/* Mailchimp */
+
+#mc_embed_signup{
+    background:#fff;
+    clear:left;
+    font:14px Helvetica,Arial,sans-serif;
+    width:600px !important;
+}

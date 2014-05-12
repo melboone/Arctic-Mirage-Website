@@ -2,8 +2,8 @@
 <?php $keywords = 'syp expo, exp project, syp'; ?>
 <?php $title = 'SYP Expo| Arctic Mirage'; include("../../includes/header.php"); ?>
     <div class="pr-desc">
-    <h1>SYP Expo</h1>
-<p>Billboard Design</p>
+    <h1>Shangyi Property Exibition</h1>
+<p>Expo Stand Design</p>
 </div>
     <div id="content_1" class="content">
         <div class="images_container">
