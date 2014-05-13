@@ -45,13 +45,19 @@
                 <p>3D Movie Animation</p>
 			</div>
 		</div>
+			<div class="sp">
+				<div>Interior Styling</div>
 				<div>
-			<div>Interior Styling</div>
-			<div>
-				<p>Display Suite</p>
-				<p>Exhibition Stand</p>
+					<p>Display Suite</p>
+					<p>Exhibition Stand</p>
+				</div>
 			</div>
-		</div>
+			<div class="sp">
+				<div>Interior Design Consultancy</div>
+				<div>
+					<p>Joinery Details</p>
+				</div>
+			</div>
 	</div>
 	<div>
 	    <h1>Graphic Design</h1>

@@ -2,13 +2,13 @@
 <html lang="en">
 <head>
 <title><?php if (isset($title)) {echo $title;} else {echo "Arctic Mirage";} ?></title>
-<meta name="keywords" content="<?php echo $keywords; ?>">
-<meta name="description" content="<?php echo $description; ?>">
+<meta name="keywords" content="<?php if (isset($keywords)) {echo $keywords;} else {echo "";} ?>">
+<meta name="description" content="<?php if (isset($description)) {echo $description;} else {echo "";} ?>">
 <meta http-equiv="content-type" content="text/html; charset=<?php echo defined('PHPFMG_CHARSET') ? PHPFMG_CHARSET : 'UTF-8'; ?>">
-<link rel="stylesheet" type="text/css" href="http://tam-web.info/a2/includes/css/style.css" media="screen">
-<link rel="stylesheet" type="text/css" href="http://tam-web.info/a2/includes/css/jquery.mCustomScrollbar.css">
-<script type="javascript" src="http://tam-web.info/a2/includes/highlight.js"></script>
-<?php $logo_image = '<a href="/" title="The Arctic Mirage"><img src="http://tam-web.info/a2/includes/images/arcticmirage-logo.png" alt="Arctic Mirage Logo"></a>'; ?>
+<link rel="stylesheet" type="text/css" href="/includes/css/style.css" media="screen">
+<link rel="stylesheet" type="text/css" href="/includes/css/jquery.mCustomScrollbar.css">
+<script type="javascript" src="/includes/highlight.js"></script>
+<?php $logo_image = '<a href="/" title="The Arctic Mirage"><img src="/includes/images/arcticmirage-logo.png" alt="Arctic Mirage Logo"></a>'; ?>
 <meta name="author" content="Arctic Mirage">
 </head>
 <body>
