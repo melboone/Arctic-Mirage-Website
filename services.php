@@ -5,6 +5,13 @@
 <img src="includes/images/moodboard.jpg" alt="Arctic Mirage Services image" title="Arctic Mirage Moodboard">
 	<div>
 		<h1>Interior design</h1>
+			<div class="sp">
+				<div>Interior Design</div>
+				<div>
+					<p>Consultancy</p>
+					<p>Joinery Details</p>
+				</div>
+			</div>
 		<div class="sp">
 			<div>3D Artist Impressions</div>
 			<div>
@@ -50,12 +57,6 @@
 				<div>
 					<p>Display Suite</p>
 					<p>Exhibition Stand</p>
-				</div>
-			</div>
-			<div class="sp">
-				<div>Interior Design Consultancy</div>
-				<div>
-					<p>Joinery Details</p>
 				</div>
 			</div>
 	</div>
