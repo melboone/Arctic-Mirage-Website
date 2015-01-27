@@ -1,5 +1,0 @@
-[18-Mar-2014 06:36:06 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/deoarece/public_html/a2/includes/header.php on line 5
-[18-Mar-2014 06:36:09 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/deoarece/public_html/a2/includes/header.php on line 5
-[18-Mar-2014 06:44:58 UTC] PHP Parse error:  syntax error, unexpected T_ECHO, expecting '(' in /home/deoarece/public_html/a2/includes/header.php on line 5
-[18-Mar-2014 06:45:00 UTC] PHP Parse error:  syntax error, unexpected T_ECHO, expecting '(' in /home/deoarece/public_html/a2/includes/header.php on line 5
-[18-Mar-2014 06:47:08 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/deoarece/public_html/a2/includes/header.php on line 5

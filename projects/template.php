@@ -1,8 +1,8 @@
 <?php $description = 'Page Description'; ?>
 <?php $keywords = 'Page keywords'; ?>
-<?php $title = 'Page_Title | Arctic Mirage'; include("../../includes/header.php"); ?>
+<?php $title = 'Page Title | Arctic Mirage'; include("../../includes/header.php"); ?>
     <div class="pr-desc">
-    <h1>Title</h1>
+    <h1>Page Title</h1>
 <p></p>
 </div>
     <div id="content_1" class="content">
