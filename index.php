@@ -35,6 +35,56 @@
 </div>
 <div class="projectOuter">
 	<div style="position: relative; overflow: hidden; height: 2520px; width: 1110px; visibility: visible;" id="container" class="clearfix isotope">
+<a style="position: absolute; left: 0px; top: 0px; transform: translate3d(666px, 0px, 0px);" class="projectItem element all campaign  isotope-item" href="projects/almond/">
+          <table class="overlay">
+          <tbody><tr>
+            <td valign="middle">Almond Apartments</td>
+          </tr>
+          </tbody></table>
+          <span class="details">
+          <img style="float:left;" src="projects/thumbs/almond.jpg">
+          </span>
+</a>
+<a style="position: absolute; left: 0px; top: 0px; transform: translate3d(666px, 0px, 0px);" class="projectItem element all campaign  isotope-item" href="projects/prism-apartments/">
+          <table class="overlay">
+          <tbody><tr>
+            <td valign="middle"><P></P>Prism Apartments</td>
+          </tr>
+          </tbody></table>
+          <span class="details">
+          <img style="float:left;" src="projects/thumbs/prism.jpg">
+          </span>
+</a>
+<a style="position: absolute; left: 0px; top: 0px; transform: translate3d(666px, 0px, 0px);" class="projectItem element all campaign  isotope-item" href="projects/central-avenue/">
+          <table class="overlay">
+          <tbody><tr>
+            <td valign="middle">11 Central Avenue</td>
+          </tr>
+          </tbody></table>
+          <span class="details">
+          <img style="float:left;" src="projects/thumbs/11-central.jpg">
+          </span>
+</a>
+<a style="position: absolute; left: 0px; top: 0px; transform: translate3d(666px, 0px, 0px);" class="projectItem element all campaign  isotope-item" href="projects/mayor-anderson/">
+          <table class="overlay">
+          <tbody><tr>
+            <td valign="middle">Mayor Anderson</td>
+          </tr>
+          </tbody></table>
+          <span class="details">
+          <img style="float:left;" src="projects/thumbs/mayor-anderson.jpg">
+          </span>
+</a>
+<a style="position: absolute; left: 0px; top: 0px; transform: translate3d(666px, 0px, 0px);" class="projectItem element all graphic  isotope-item" href="projects/planning-preview/">
+          <table class="overlay">
+          <tbody><tr>
+            <td valign="middle"><P></P>Planning Preview</td>
+          </tr>
+          </tbody></table>
+          <span class="details">
+          <img style="float:left;" src="projects/thumbs/planning-preview.jpg">
+          </span>
+</a>
 <a style="position: absolute; left: 0px; top: 0px; transform: translate3d(666px, 0px, 0px);" class="projectItem element all campaign  isotope-item" href="projects/rose-apartments/">
           <table class="overlay">
           <tbody><tr>
@@ -483,56 +533,6 @@
           </tbody></table>
           <span class="details">
           <img style="float:left;" src="projects/thumbs/carawatha-rise.jpg">
-          </span>
-</a>
-<a style="position: absolute; left: 0px; top: 0px; transform: translate3d(666px, 0px, 0px);" class="projectItem element all campaign  isotope-item" href="projects/central-avenue/">
-          <table class="overlay">
-          <tbody><tr>
-            <td valign="middle">11 Central Avenue</td>
-          </tr>
-          </tbody></table>
-          <span class="details">
-          <img style="float:left;" src="projects/thumbs/11-central.jpg">
-          </span>
-</a>
-<a style="position: absolute; left: 0px; top: 0px; transform: translate3d(666px, 0px, 0px);" class="projectItem element all campaign  isotope-item" href="projects/almond/">
-          <table class="overlay">
-          <tbody><tr>
-            <td valign="middle">Almond Apartments</td>
-          </tr>
-          </tbody></table>
-          <span class="details">
-          <img style="float:left;" src="projects/thumbs/almond.jpg">
-          </span>
-</a>
-<a style="position: absolute; left: 0px; top: 0px; transform: translate3d(666px, 0px, 0px);" class="projectItem element all campaign  isotope-item" href="projects/mayor-anderson/">
-          <table class="overlay">
-          <tbody><tr>
-            <td valign="middle">Mayor Anderson</td>
-          </tr>
-          </tbody></table>
-          <span class="details">
-          <img style="float:left;" src="projects/thumbs/mayor-anderson.jpg">
-          </span>
-</a>
-<a style="position: absolute; left: 0px; top: 0px; transform: translate3d(666px, 0px, 0px);" class="projectItem element all graphic  isotope-item" href="projects/planning-preview/">
-          <table class="overlay">
-          <tbody><tr>
-            <td valign="middle"><P></P>Planning Preview</td>
-          </tr>
-          </tbody></table>
-          <span class="details">
-          <img style="float:left;" src="projects/thumbs/planning-preview.jpg">
-          </span>
-</a>
-<a style="position: absolute; left: 0px; top: 0px; transform: translate3d(666px, 0px, 0px);" class="projectItem element all campaign  isotope-item" href="projects/prism-apartments/">
-          <table class="overlay">
-          <tbody><tr>
-            <td valign="middle"><P></P>Prism Apartments</td>
-          </tr>
-          </tbody></table>
-          <span class="details">
-          <img style="float:left;" src="projects/thumbs/prism.jpg">
           </span>
 </a>
 </div>
