@@ -9,7 +9,7 @@ Marketing Floor Plans</p>
     <div id="content_1" class="content">
         <div class="images_container">
             <img src="11-nicholson-1.jpg" alt="">
-            <img src="11-nicholson-2.jpg" alt="">
+            <img src="11-nicholson-2-long.jpg" alt="">
             <img src="11-nicholson-3.jpg" alt="">
             <img src="11-nicholson-4.jpg" alt="">
         </div>
